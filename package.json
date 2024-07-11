@@ -10,9 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ao": "^0.1.1",
+    "aos": "^2.3.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-icons": "^5.2.1"
+    "react-icons": "^5.2.1",
+    "react-slick": "^0.30.2",
+    "s": "^1.0.0",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
