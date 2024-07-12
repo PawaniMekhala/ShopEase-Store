@@ -1,5 +1,5 @@
 import React from 'react'
-import BannerImg from "../../assets/hero/woman.png"
+import BannerImg from "../../assets/hero/shopping.png"
 import {GrSecure} from "react-icons/gr"
 import {IoFastFood} from "react-icons/io5"
 import {GiFoodTruck} from "react-icons/gi"
