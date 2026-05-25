@@ -1,0 +1,7 @@
+Express	- backend server
+Mongoose - connect MongoDB
+Cors - frontend-backend connection
+Dotenv - environment variables
+Nodemon - auto restart server
+bcryptjs - password hashing
+jsonwebtoken - login tokens (JWT)
