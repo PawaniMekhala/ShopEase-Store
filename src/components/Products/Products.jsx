@@ -11,7 +11,7 @@ const ProductsData = [
     img: Img1,
     title: "Women Ethnic",
     rating: 5.0,
-    author: "white",
+    color: "white",
     aosDelay: "0",
   },
   {
@@ -19,7 +19,7 @@ const ProductsData = [
     img: Img2,
     title: "Women western",
     rating: 4.5,
-    author: "Red",
+    color: "Red",
     aosDelay: "200",
   },
   {
@@ -27,7 +27,7 @@ const ProductsData = [
     img: Img3,
     title: "Goggles",
     rating: 4.7,
-    author: "brown",
+    color: "brown",
     aosDelay: "400",
   },
   {
@@ -35,7 +35,7 @@ const ProductsData = [
     img: Img4,
     title: "Printed T-Shirt",
     rating: 4.4,
-    author: "yellow",
+    color: "yellow",
     aosDelay: "600",
   },
   {
@@ -43,7 +43,7 @@ const ProductsData = [
     img: Img5,
     title: "Fashion T-Shirt",
     rating: 4.5,
-    author: "pink",
+    color: "pink",
     aosDelay: "800",
   },
 ];
